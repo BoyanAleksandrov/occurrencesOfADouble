@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.exe
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.deps.json
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.runtimeconfig.json
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.dll
+C:\Users\Lenovo\source\repos\homwork\homwork\bin\Debug\netcoreapp3.1\homwork.pdb
+C:\Users\Lenovo\source\repos\homwork\homwork\obj\Debug\netcoreapp3.1\homwork.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\homwork\homwork\obj\Debug\netcoreapp3.1\homwork.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\homwork\homwork\obj\Debug\netcoreapp3.1\homwork.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\homwork\homwork\obj\Debug\netcoreapp3.1\homwork.dll
+C:\Users\Lenovo\source\repos\homwork\homwork\obj\Debug\netcoreapp3.1\homwork.pdb
